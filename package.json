@@ -4,6 +4,7 @@
 	"keywords": ["nice", "simple", "cool", "freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"license": "BSD",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
